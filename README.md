@@ -64,7 +64,7 @@ The 23 queries are grouped into 7 steps. Every query in `sql/queries.sql` starts
 4. **Revenue is spread across many artists.** Iron Maiden leads with $138.60 (6.0%), followed by U2 ($105.93) and Metallica ($90.09). The top 10 artists earn 31.0%.
 5. **43.4% of the catalogue has never been sold:** 1,519 of 3,503 tracks, and the Opera genre has no sales at all. This is the biggest opportunity.
 6. **TV shows earn more per sale.** Video tracks cost $1.99 instead of $0.99, so *Lost* and *The Office* rank 5th and 6th among artists.
-7. **Revenue is flat.** It stays between $450 and $481 a year, with no clear growth and no seasonal pattern (monthly revenue $186 to $201).
+7. **Revenue is flat.** It stays between $449 and $481 a year, with no clear growth and no seasonal pattern (monthly revenue $186 to $201).
 
 ### ⚠️ Limitations
 
